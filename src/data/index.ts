@@ -48,6 +48,17 @@ const data = {
       },
       role: 'UI UX & Web Developer',
     },
+    name: 'Mk clinic admin panal',
+      image: '/projects/clinic.png',
+      about:
+        'Designed and developed a comprehensive admin dashboard)',
+      tech: ['Next.js', 'Typescript', 'Redux Toolkit', 'NextAuth.js'],
+      links: {
+        GitHub: 'https://github.com/MAhmoud750t',
+        Live: 'https://mk-clinic-app.netlify.app/',
+       
+      },
+      role: 'UI UX & Web Developer',
   ],
   links: [
     {
