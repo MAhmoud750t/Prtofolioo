@@ -48,7 +48,8 @@ const data = {
       },
       role: 'UI UX & Web Developer',
     },
-    name: 'Mk clinic admin panal',
+    {
+      name: 'Mk clinic admin panal',
       image: '/projects/clinic.png',
       about:
         'Designed and developed a comprehensive admin dashboard)',
@@ -59,6 +60,7 @@ const data = {
        
       },
       role: 'UI UX & Web Developer',
+    },
   ],
   links: [
     {
